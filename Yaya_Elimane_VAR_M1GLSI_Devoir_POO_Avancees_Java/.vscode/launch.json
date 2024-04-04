@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/media/yaya/Takkino31/Mes Cours/ESP/GLSI/M1/Semestre 1/Tp_Java/Yaya_Elimane_VAR_M1GLSI_Devoir_POO_Avancees_Java",
+      "program": "/media/yaya/Takkino31/Mes Cours/ESP/GLSI/M1/Semestre 1/Tp_Java/Yaya_Elimane_VAR_M1GLSI_Devoir_POO_Avancees_Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

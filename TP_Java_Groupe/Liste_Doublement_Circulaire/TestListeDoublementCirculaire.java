@@ -45,11 +45,3 @@ public class TestListeDoublementCirculaire {
 
     }
 }
-
-
-Nom : Yaya Elimane
-Prenom : VAR  
-Date et Lieu de Naissance : 30 Juillet 1998 à Saint-Louis
-Adresse : Leona , Mosquée Rawane Ngom , Saint-Louis  
-CNI : 1251199802216
-Telephone : + 221777679440

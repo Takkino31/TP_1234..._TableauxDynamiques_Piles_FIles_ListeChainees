@@ -6,6 +6,6 @@ public class EtudiantException extends Exception{
     }
     
     public void IncorrectNumber(String errorMessage){
-        System.err.println("Erreur " +errorMessage);
+        System.err.println("Erreur " + errorMessage);
     }
 }
